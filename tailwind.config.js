@@ -7,11 +7,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        // Warna diambil langsung dari sampel piksel desain asli
-        "panel-left": "#533F86",   // ungu panel kiri
-        "panel-right": "#5F4C8E",  // ungu panel kanan (sedikit lebih terang)
-        "accent-mint": "#3CD17C",  // hijau mint untuk aksen & teks
-        "line-teal": "#4FA6A0",    // garis lengkung tipis dekoratif
+        "panel-left": "#533F86",  
+        "panel-right": "#5F4C8E",  
+        "accent-mint": "#3CD17C", 
+        "line-teal": "#4FA6A0",    
       },
       fontFamily: {
         sans: ["Poppins", "ui-sans-serif", "system-ui", "sans-serif"],
